@@ -8,7 +8,8 @@ Bostrom,
 https://pubs.acs.org/doi/10.1021/acs.jcim.7b00618.
 
 Run the script reflex3d.py for (rather limited) usage instructions.
-In case of problems, questions or suggestions, please contact Jonas at
-jonas.bostrom@astrazeneca.com.
+In case of problems, questions or suggestions, please contact Thomas
+at thomas.christian.schmidt@gmx.de or Jonas at
+jonas.bostrom@astrazeneca.com. 
 
 Please see the file LICENSE for licensing information.
